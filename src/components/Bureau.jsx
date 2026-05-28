@@ -4,35 +4,76 @@ import { HandsIcon } from './Icons'
 const members = [
   {
     name: "N'Guessan Amadou OUATTARA",
-    role: 'Président Exécutif',
+    role: 'PRÉSIDENT',
     photo: presidentPhoto,
     initials: null,
     avatarBg: null,
-    quote: "Ensemble, faisons d'Aboisso un vivier d'excellence et de solidarité.",
+    quote:
+      "Ensemble, faisons rayonner les élèves ressortissants d’Aboisso à travers l’excellence, la fraternité et la solidarité.",
     color: '#F77F00',
-    badge: 'linear-gradient(135deg, #F77F00, #e65c00)',
+    badge: 'linear-gradient(135deg, #F77F00, #D95D00)',
   },
+
   {
-    name: 'Kouamé Brice YAPI',
-    role: 'Vice-Président',
+    name: 'BAKARE ABDUL MOUIZE',
+    role: 'SECRÉTAIRE GÉNÉRAL',
     photo: null,
-    initials: 'KBY',
-    avatarBg: 'linear-gradient(135deg, #009A44, #006B3F)',
-    quote: "Notre force réside dans l'unité et l'entraide entre ressortissants.",
-    color: '#009A44',
-    badge: 'linear-gradient(135deg, #009A44, #006B3F)',
+    initials: 'BM',
+    avatarBg: 'linear-gradient(135deg, #00B894, #00695C)',
+    quote:
+      "Chaque action administrative contribue à renforcer les liens entre les membres de notre communauté.",
+    color: '#00B894',
+    badge: 'linear-gradient(135deg, #00B894, #00695C)',
   },
+
   {
-    name: 'Assi Marie-Claire ADJOUA',
-    role: 'Secrétaire Générale',
+    name: 'KADJANE AMOUCHIA ET DANQUAH K. DIDIER',
+    role: 'SERVICE DE LA COMMUNICATION',
     photo: null,
-    initials: 'AMA',
-    avatarBg: 'linear-gradient(135deg, #1d6fa4, #0e4f7a)',
-    quote: "L'organisation et la communication sont les piliers de notre dynamisme.",
-    color: '#1d6fa4',
-    badge: 'linear-gradient(135deg, #1d6fa4, #0e4f7a)',
+    initials: 'KD',
+    avatarBg: 'linear-gradient(135deg, #6C5CE7, #4834D4)',
+    quote:
+      "Informer, valoriser et faire entendre la voix des élèves ressortissants d’Aboisso partout où nous sommes.",
+    color: '#6C5CE7',
+    badge: 'linear-gradient(135deg, #6C5CE7, #4834D4)',
   },
-]
+
+  {
+    name: 'DIAKITÉ MOUSSA ET SANOGO ADAMA',
+    role: 'SERVICE DE LA MOBILISATION',
+    photo: null,
+    initials: 'DS',
+    avatarBg: 'linear-gradient(135deg, #E17055, #C44536)',
+    quote:
+      "La mobilisation est le moteur qui transforme notre union en véritable force collective.",
+    color: '#E17055',
+    badge: 'linear-gradient(135deg, #E17055, #C44536)',
+  },
+
+  {
+    name: 'SIA HAMID ET KABORE RAMA',
+    role: 'SERVICE CHARGÉ DES AFFAIRES EXTÉRIEURES',
+    photo: null,
+    initials: 'SK',
+    avatarBg: 'linear-gradient(135deg, #0984E3, #0652DD)',
+    quote:
+      "Créer des partenariats solides pour ouvrir de nouvelles opportunités aux élèves d’Aboisso.",
+    color: '#0984E3',
+    badge: 'linear-gradient(135deg, #0984E3, #0652DD)',
+  },
+
+  {
+    name: 'ATOUBOU HERMANN ET TRAORE FATIM',
+    role: 'SERVICE DES FINANCES',
+    photo: null,
+    initials: 'AT',
+    avatarBg: 'linear-gradient(135deg, #FDCB6E, #E1A32A)',
+    quote:
+      "Une gestion transparente et responsable pour soutenir durablement les projets de l’association.",
+    color: '#FDCB6E',
+    badge: 'linear-gradient(135deg, #FDCB6E, #E1A32A)',
+  },
+];
 
 export default function Bureau() {
   return (
