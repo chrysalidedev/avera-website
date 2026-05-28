@@ -59,7 +59,7 @@ export default function Hero() {
           className="text-lg sm:text-xl md:text-2xl font-semibold tracking-wide mb-3 text-white/90"
           style={{ fontFamily: 'Inter, sans-serif' }}
         >
-          Association des Étudiants Ressortissants d'Aboisso
+          Association des Vaillants Étudiants Ressortissants d'Aboisso
         </h2>
         <p className="text-sm sm:text-base text-white/70 mb-10 max-w-xl mx-auto leading-relaxed">
           Rassemblement, excellence et solidarité pour tous les étudiants d'Aboisso et ses environs.

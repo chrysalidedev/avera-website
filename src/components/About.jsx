@@ -33,7 +33,7 @@ export default function About() {
           {/* Text */}
           <div>
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
-              L'<strong className="text-green-700">Association des Étudiants Ressortissants d'Aboisso (A.V.E.R.A)</strong> est
+              L'<strong className="text-green-700">Association des Vaillants Étudiants Ressortissants d'Aboisso (A.V.E.R.A)</strong> est
               une organisation estudiantine fondée pour rassembler tous les étudiants originaires
               d'Aboisso et de ses environs autour d'une vision commune de la réussite.
             </p>

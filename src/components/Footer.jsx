@@ -38,7 +38,7 @@ export default function Footer() {
               </div>
             </div>
             <p className="text-sm text-gray-400 leading-relaxed">
-              Association des Étudiants Ressortissants d'Aboisso. Rassemblement, excellence
+              Association des Vaillants Étudiants Ressortissants d'Aboisso. Rassemblement, excellence
               et solidarité pour tous.
             </p>
 
